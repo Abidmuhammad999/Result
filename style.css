@@ -61,7 +61,7 @@ hr {
     color: white;
     padding: 5px;
     font-size: 16px;
-    width: 100px;
+    width: 150px;
     height: 40px;
     color: white;
     margin-top: 15px;
@@ -85,7 +85,7 @@ hr {
     position: absolute;
     background-color: #f1f1f1;
     border-radius: 5px;
-    min-width: 100px;
+    min-width: 150px;
     bottom: 45px;
     z-index: 1;
     font-family: 'Noto Sans', sans-serif !important;
